@@ -1,19 +1,24 @@
-<b>Hi there, I'm Abhishek Jamle! 👋 </br>
-I am a Java Developer, I Am Pursuing My Engineering from Swami Vivekanand College of Engineering, Indore.
+# 💫 About Me:
+<div style="background-color: black; color: white; padding: 20px; text-align: center;"><br> <br><div class="content"><h1 class="title">Hii There 👋 , I Am Abhishek Jamle<div class="aurora"><div class="aurora__item"></div><div class="aurora__item"></div><div class="aurora__item"></div><div class="aurora__item"></div></div></h1><p class="subtitle"></p></div><style>@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;800&display=swap");:root{--bg:#000;--clr-1:#00c2ff;--clr-2:#33ff8c;--clr-3:#ffc640;--clr-4:#e54cff;--blur:1rem;--fs:clamp(3rem,8vw,7rem);--ls:clamp(-1.75px,-0.25vw,-3.5px);}body{min-height:100vh;display:grid;place-items:center;background-color:var(--bg);color:#fff;font-family:"Inter","DM Sans",Arial,sans-serif}*,*::before,*::after{font-family:inherit;box-sizing:border-box}.content{text-align:center}.title{font-size:var(--fs);font-weight:800;letter-spacing:var(--ls);position:relative;overflow:hidden;background:var(--bg);margin:0}.subtitle{}.aurora{position:absolute;top:0;left:0;width:100%;height:100%;z-index:2;mix-blend-mode:darken;pointer-events:none}.aurora__item{overflow:hidden;position:absolute;width:60vw;height:60vw;background-color:var(--clr-1);border-radius:37% 29% 27% 27%/28% 25% 41% 37%;filter:blur(var(--blur));mix-blend-mode:overlay}.aurora__item:nth-of-type(1){top:-50%;animation:aurora-border 6s ease-in-out infinite,aurora-1 12s ease-in-out infinite alternate}.aurora__item:nth-of-type(2){background-color:var(--clr-3);right:0;top:0;animation:aurora-border 6s ease-in-out infinite,aurora-2 12s ease-in-out infinite alternate}.aurora__item:nth-of-type(3){background-color:var(--clr-2);left:0;bottom:0;animation:aurora-border 6s ease-in-out infinite,aurora-3 8s ease-in-out infinite alternate}.aurora__item:nth-of-type(4){background-color:var(--clr-4);right:0;bottom:-50%;animation:aurora-border 6s ease-in-out infinite,aurora-4 24s ease-in-out infinite alternate}@keyframes aurora-1{0%{top:0;right:0}50%{top:100%;right:75%}75%{top:100%;right:25%}100%{top:0;right:0}}@keyframes aurora-2{0%{top:-50%;left:0%}60%{top:100%;left:75%}85%{top:100%;left:25%}100%{top:-50%;left:0%}}@keyframes aurora-3{0%{bottom:0;left:0}40%{bottom:100%;left:75%}65%{bottom:40%;left:50%}100%{bottom:0;left:0}}@keyframes aurora-4{0%{bottom:-50%;right:0}50%{bottom:0%;right:40%}90%{bottom:50%;right:25%}100%{bottom:-50%;right:0}}@keyframes aurora-border{0%{border-radius:37% 29% 27% 27%/28% 25% 41% 37%}25%{border-radius:47% 29% 39% 49%/61% 19% 66% 26%}50%{border-radius:57% 23% 47% 72%/63% 17% 66% 33%}75%{border-radius:28% 49% 29% 100%/93% 20% 64% 25%}100%{border-radius:37% 29% 27% 27%/28% 25% 41% 37%}}</style><br><body style="padding:0;margin:auto;background-color:#000;display:flex;align-items:center;justify-content:center;min-height:100vh"><h1 style="color:#484848;font-size:50px;font-weight:bold;font-family:monospace;letter-spacing:7px;cursor:pointer"><span style="transition:.5s linear">I</span>M<span style="transition:.5s linear">POSSIBLE</span></h1><style>h1:hover span:nth-child(1){margin-right:5px}h1:hover span:nth-child(1):after{content:"'"}h1:hover span:nth-child(2){margin-left:30px}h1:hover span{color:#fff;text-shadow:0 0 10px #fff,0 0 20px #fff,0 0 40px #fff}</style> <br>I am a passionate Java Full Stack Developer with experience in developing scalable, efficient, and robust applications. My skill set spans from back-end to front-end, allowing me to bring full-featured applications to life. I enjoy creating high-quality code, optimizing performance, and learning new technologies.<br></div>
 
-🚀 About Me
-🌱 My skill set is characterized by robust problem-solving abilities and a keen analytical mindset, allowing me to adeptly identify and resolve intricate issues with efficiency.<br>
-💡 I am committed to continuously refining my skillset by staying updated with the latest advancements in technology trends.<br>
-<br>
-💻 Tech Stack <br>
-Development:  Html, Css , JSP Servlet <br>
-Database: MySQL <br>
-Programming Languages: Java, C++, C, JavaScript <br>
 
-🌐 Connect with Me <br>
-LinkedIn Email Me <br>
-<br>
-🤝 Let's Connect <br>
-I'm always open to collaboration and new opportunities. If you have an interesting project or just want to chat, feel free to reach out! <br>
-  
-Thanks for stopping by! 😊 <br>
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/abhishekjamle) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/leaveawy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abhishek-jamle-86925726b/) 
+
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=theabhishekjamle&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=theabhishekjamle&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=theabhishekjamle&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=theabhishekjamle&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=theabhishekjamle&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
