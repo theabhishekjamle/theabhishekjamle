@@ -1,3 +1,5 @@
+<div align="center" bg-color="black">
+  
 # 💫 About Me:
 
 
