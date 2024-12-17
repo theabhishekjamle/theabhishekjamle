@@ -4,7 +4,7 @@
 <div align="center">
 
 
-![Flicker Gradient Effect](https://readme-typing-svg.demolab.com/?lines=Hi+There!;I+am+Abhishek+Jamle.;Welcome+to+My+GitHub+Profile!;&font=Fira+Code&weight=700&center=true&width=500&height=60&duration=4000&pause=500&color=FF5733,FFC300,DAF7A6,33FF57&vCenter=true&size=28&random=false&repeat=true)
+![Flicker Gradient Effect](https://readme-typing-svg.demolab.com/?lines=Hi+There!;I'm+Abhishek+Jamle.;Welcome+to+My+GitHub+Profile!;&font=Fira+Code&weight=700&center=true&width=500&height=60&duration=4000&pause=500&color=FF5733,FFC300,DAF7A6,33FF57&vCenter=true&size=28&random=false&repeat=true)
 
 
 
